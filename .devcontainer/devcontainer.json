@@ -1,0 +1,4 @@
+{
+    "name": "devcontainer-feature-codex dev",
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu"
+}
