@@ -1,14 +1,14 @@
 {
     "name": "codex",
     "id": "codex",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Installs OpenAI Codex CLI - a terminal-based coding agent",
     "documentationURL": "https://github.com/openai/codex",
     "options": {
         "version": {
             "type": "string",
             "default": "latest",
-            "description": "Version of @openai/codex to install (e.g., 1.0.9). Set to 'latest' to install the latest version."
+            "description": "Version of @openai/codex to install (e.g., 0.147.0). Set to 'latest' to install the latest version."
         }
     },
     "installsAfter": [
