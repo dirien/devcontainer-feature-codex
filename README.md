@@ -20,7 +20,7 @@ Add the Codex feature to your `devcontainer.json`:
 
 | Option    | Type   | Default  | Description                                                                            |
 |-----------|--------|----------|----------------------------------------------------------------------------------------|
-| `version` | string | `latest` | Version of @openai/codex to install (e.g., `1.0.9`). Set to `latest` for the latest.  |
+| `version` | string | `latest` | Version of @openai/codex to install (e.g., `0.147.0`). Set to `latest` for the latest.  |
 
 #### Pin a specific version
 
@@ -28,7 +28,7 @@ Add the Codex feature to your `devcontainer.json`:
 {
     "features": {
         "ghcr.io/dirien/devcontainer-feature-codex/codex:0": {
-            "version": "1.0.9"
+            "version": "0.147.0"
         }
     }
 }

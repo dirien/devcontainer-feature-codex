@@ -15,7 +15,7 @@ Installs OpenAI Codex CLI - a terminal-based coding agent
 
 | Options Id | Description | Type | Default Value |
 |-----|-----|-----|-----|
-| version | Version of @openai/codex to install (e.g., 1.0.9). Set to 'latest' to install the latest version. | string | latest |
+| version | Version of @openai/codex to install (e.g., 0.147.0). Set to 'latest' to install the latest version. | string | latest |
 
 
 
